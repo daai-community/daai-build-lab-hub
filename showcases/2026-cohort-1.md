@@ -2,9 +2,6 @@
 
 *Verified projects built during the inaugural 2-week sprint across E-Commerce, Fintech, Healthcare, and Logistics. Showcases will be published following final evaluation on December 7, 2026.*
 
-## Top 3 Spotlight Solutions
-*To be announced following final submission evaluation.*
-
 ---
 
 ## Verified Cohort Project Index
